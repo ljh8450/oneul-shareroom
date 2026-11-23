@@ -15,6 +15,6 @@
 
 ## 프로젝트 문서
 
-- [초기 개발 기획안](docs/wiki/README.md)
-- [데일리 개발 기록 안내](docs/wiki/README.md#데일리-개발-기록)
-- [데일리 개발 기록 양식](docs/wiki/daily/TEMPLATE.md)
+- [초기 개발 기획안](https://github.com/ljh8450/oneul-shareroom/wiki)
+- [데일리 개발 기록 안내](https://github.com/ljh8450/oneul-shareroom/wiki#%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EB%A1%9D)
+- [데일리 개발 기록 양식](https://github.com/ljh8450/oneul-shareroom/wiki/Daily-Log-Template)
